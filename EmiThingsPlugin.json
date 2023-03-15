@@ -9,5 +9,8 @@
     "emi"
   ],
   "DalamudApiLevel": 6,
-  "LoadPriority": 0
+  "LoadPriority": 0,
+  "DownloadLinkInstall": "https://github.com/MayakoAelys/EmiDalamudPlugins/raw/main/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MayakoAelys/EmiDalamudPlugins/raw/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MayakoAelys/EmiDalamudPlugins/raw/main/latest.zip"
 }]
