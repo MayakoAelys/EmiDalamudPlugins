@@ -1,0 +1,14 @@
+{
+  "Author": "Emi",
+  "Name": "EmiThings",
+  "InternalName": "EmiThingsPlugin",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "Just a test to put my hands in plugin dev",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/MayakoAelys/EmiThingsPlugin",
+  "Tags": [
+    "emi"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0
+}
