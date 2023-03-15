@@ -1,4 +1,4 @@
-{
+[{
   "Author": "Emi",
   "Name": "EmiThings",
   "InternalName": "EmiThingsPlugin",
@@ -10,4 +10,4 @@
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0
-}
+}]
