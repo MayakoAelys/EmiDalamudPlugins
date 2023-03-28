@@ -1,15 +1,20 @@
-[{
-  "Author": "Emi",
-  "Name": "EmiThings",
-  "InternalName": "EmiThingsPlugin",
-  "AssemblyVersion": "0.2.0.0",
-  "Description": "Just a test to put my hands in plugin dev",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/MayakoAelys/EmiDalamudPlugins",
-  "Tags": [
-    "emi"
-  ],
-  "DalamudApiLevel": 8,
-  "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/MayakoAelys/EmiDalamudPlugins/main/EmiThings.png"
-}]
+[
+  {
+    "Author": "Emi",
+    "Name": "EmiThings",
+    "InternalName": "EmiThingsPlugin",
+    "AssemblyVersion": "0.2.0.0",
+    "Description": "Just a test to put my hands in plugin dev",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/MayakoAelys/EmiDalamudPlugins",
+    "Tags": [
+      "emi"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/MayakoAelys/EmiDalamudPlugins/main/EmiThings.png",
+    "DownloadLinkInstall": "https://github.com/MayakoAelys/EmiDalamudPlugins/raw/main/latest.zip",
+    "DownloadLinkTesting": "https://github.com/MayakoAelys/EmiDalamudPlugins/raw/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/MayakoAelys/EmiDalamudPlugins/raw/main/latest.zip"
+  }
+]
