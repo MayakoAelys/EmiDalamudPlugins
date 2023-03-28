@@ -1,4 +1,4 @@
-{
+[{
   "Author": "Emi",
   "Name": "EmiThings",
   "InternalName": "EmiThingsPlugin",
@@ -12,4 +12,4 @@
   "DalamudApiLevel": 8,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/MayakoAelys/EmiDalamudPlugins/main/EmiThings.png"
-}
+}]
